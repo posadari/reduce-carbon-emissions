@@ -5,7 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #569358;
+  background-size: 1280px 1024px;
+
+  background-image: url('../src/images/tree\ background.jpg')
 }
 
 code {
