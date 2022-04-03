@@ -8,12 +8,25 @@
     "@material-ui/icons": "^4.11.2",
     "@mui/icons-material": "^5.5.1",
     "@mui/material": "^5.5.3",
+    "@reach/combobox": "^0.16.5",
+    "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "assert": "^2.0.0",
+    "google-distance-api": "^1.0.0",
+    "google-distance-matrix": "^1.1.1",
+    "google-distance-updated": "^2.0.2",
+    "hpsweb-google-distance": "^1.1.2",
     "react": "^18.0.0",
+    "react-cool-onclickoutside": "^1.7.0",
     "react-dom": "^18.0.0",
+    "react-geocode": "^0.2.3",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.0",
+    "use-places-autocomplete": "^2.0.0",
+    "util": "^0.12.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,5 +52,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/googlemaps": "^3.43.3"
   }
 }
